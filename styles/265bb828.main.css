@@ -1,0 +1,176 @@
+body,html {
+  margin: 0;
+  padding: 0
+}
+body {
+  background: #fff;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+}
+.link_wrap {
+  position: absolute;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+.link_wrap a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  text-decoration: none;
+  z-index: 10;
+  background-color: #e20074;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0;
+}
+.link_wrap:hover {
+}
+.footer_link_home {
+  left: 335px;
+  width: 70px;
+  height: 24px
+}
+.footer_link_funktionen {
+  left: 415px;
+  width: 128px;
+  height: 24px
+}
+.footer_link_jabber {
+  left: 560px;
+  width: 78px;
+  height: 24px
+}
+.footer_link_guides {
+  left: 655px;
+  width: 84px;
+  height: 24px
+}
+.img_01_start {
+  width: 1275px;
+  height: 2593px;
+  background: transparent url(../images/ad03455a.SCP-Startseite.jpg) no-repeat
+}
+.img_01_start .link_funktionen {
+  top: 950px;
+  left: 520px;
+  width: 190px;
+  height: 30px
+}
+.img_01_start .link_jabber {
+  top: 1914px;
+  left: 626px;
+  width: 130px;
+  height: 30px
+}
+.img_01_start .link_quick_guides {
+  top: 2169px;
+  left: 340px;
+  width: 130px;
+  height: 30px
+}
+.img_01_start .footer_link {
+  top: 2540px
+}
+.img_funktionen {
+  width: 1275px;
+  height: 3731px;
+  background: transparent url(../images/e110d887.SCP-Funktionen_im_Uberblick.jpg) no-repeat
+}
+.img_funktionen .footer_link {
+  top: 3678px
+}
+.img_jabber {
+  width: 1275px;
+  height: 1259px;
+  background: transparent url(../images/191fca84.SCP-Cisco_Jabber.jpg) no-repeat
+}
+.img_jabber .footer_link {
+  top: 1207px
+}
+.img_quickguides {
+  width: 1275px;
+  height: 2265px;
+  background: transparent url(../images/98aaec40.SCP-Quick_Guide_Ubersicht.jpg) no-repeat
+}
+.img_quickguides .footer_link {
+  top: 2212px
+}
+.img_quickguides .link_schritt1 {
+  top: 820px;
+  left: 376px;
+  width: 114px;
+  height: 34px
+}
+.img_quickguides .link_schritt2 {
+  top: 820px;
+  left: 562px;
+  width: 114px;
+  height: 34px
+}
+.img_quickguides .link_schritt3 {
+  top: 820px;
+  left: 750px;
+  width: 114px;
+  height: 34px
+}
+.img_quickguide1 {
+  width: 1275px;
+  height: 3593px;
+  background: transparent url(../images/a0d2be2b.SCP-Quick_Guide-Step_1-WiW_und_Profil-PIN-Seite1.jpg) no-repeat
+}
+.img_quickguide1 .footer_link {
+  top: 3540px
+}
+.img_quickguide1 .link_page2 {
+  top: 3444px;
+  left: 625px;
+  width: 45px;
+  height: 30px
+}
+.img_quickguide1-2 {
+  width: 1275px;
+  height: 2848px;
+  background: transparent url(../images/c0991e4c.SCP-Quick_Guide-Step_1-WiW_und_Profil-PIN-Seite2.jpg) no-repeat
+}
+.img_quickguide1-2 .footer_link {
+  top: 2795px
+}
+.img_quickguide1-2 .link_page2 {
+  top: 2635px;
+  left: 510px;
+  width: 200px;
+  height: 34px
+}
+.img_quickguide1-2 .link_page1 {
+  top: 2696px;
+  left: 564px;
+  width: 50px;
+  height: 34px
+}
+.img_quickguide2 {
+  width: 1275px;
+  height: 3020px;
+  background: transparent url(../images/df444f2a.SCP-Quick_Guide-Step_2-Outlook_Plugin_einrichten.jpg) no-repeat
+}
+.img_quickguide2 .footer_link {
+  top: 2967px
+}
+.img_quickguide3 {
+  width: 1275px;
+  height: 1239px;
+  background: transparent url(../images/0ba57c8a.SCP-Quick_Guide-Step_3-Browser_Plugin_installieren.jpg) no-repeat
+}
+.img_quickguide2 .link_page3 {
+  top: 2865px;
+  left: 510px;
+  width: 200px;
+  height: 34px
+}
+.img_quickguide3 .footer_link {
+  top: 1186px
+}
+ 
